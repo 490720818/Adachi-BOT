@@ -198,7 +198,7 @@ npm run restart
   <summary>展示玩家信息</summary>
   <div align="center">
 
-![米游社](images/米游社.png)
+![米游社](images/米游社 2.2.png)
 
   </div>
 </details>
